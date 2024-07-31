@@ -1,0 +1,2 @@
+Switch operation in CondtionalStaments.java file(Line 16 to line 24) only works in Java 1.7 or higher
+## The current code was written in Java ver-1.0##
